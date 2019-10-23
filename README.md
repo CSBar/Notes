@@ -4,8 +4,3 @@ Tools:
 
 Swift
 
-Java
-
-C++
-
-ElectronJS
